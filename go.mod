@@ -1,4 +1,4 @@
-module github.com/caddy-dns/googledns
+module github.com/caddy-dns/googleclouddns
 
 go 1.15
 
